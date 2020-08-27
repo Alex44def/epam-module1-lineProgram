@@ -13,7 +13,7 @@ public class Task1 {
 		
 		double z;
 		
-		z = (a-3) * b/2 + c;
+		z = ((a-3) * b) / 2 + c;
 		
 		System.out.println("Introduction. Линейные программы");
 		System.out.println("Answer firstTask: " + z);
